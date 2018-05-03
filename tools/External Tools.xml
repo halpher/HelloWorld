@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="QA Automation Tests" description="Execute QA Automation Tests, Report will open in Chrome upon completion." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" />
+      <option name="PARAMETERS" value="\\fmhi.com\ho\Developer\Tools\PowerShellScripts\AutomationTests.ps1" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
