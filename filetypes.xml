@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="StartController" type="CLASS" />
-      <mapping pattern="CiMessagingConfig.java" type="PLAIN_TEXT" />
       <mapping pattern="ciMessaging" type="PLAIN_TEXT" />
       <mapping pattern="StartupController" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
